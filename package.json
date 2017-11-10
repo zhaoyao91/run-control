@@ -1,0 +1,19 @@
+{
+  "name": "run-control",
+  "version": "1.0.0",
+  "description": "Utils help control function run.",
+  "main": "index.js",
+  "keywords": [
+    "task",
+    "run",
+    "control"
+  ],
+  "repository": "https://github.com/zhaoyao91/run-control",
+  "author": "zhaoyao91 <zhaoyao91@163.com>",
+  "license": "MIT",
+  "dependencies": {
+    "parallel-throttle": "^1.0.0",
+    "promise-throttle": "^0.3.1",
+    "retry-times": "^1.0.0"
+  }
+}
