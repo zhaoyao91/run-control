@@ -8,7 +8,7 @@
     "run",
     "control"
   ],
-  "repository": "https://github.com/zhaoyao91/run-control",
+  "repository": "https://github.com/zhaoyao91/run-control.git",
   "author": "zhaoyao91 <zhaoyao91@163.com>",
   "license": "MIT",
   "dependencies": {
