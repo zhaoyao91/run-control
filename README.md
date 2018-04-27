@@ -2,6 +2,14 @@
 
 > Utils help control function run.
 
+## Deprecation
+
+**This package is deprecated, consider using the following packages instead:**
+
+- [retry-func](https://github.com/zhaoyao91/retry-func)
+- [rate-limit-func](https://github.com/zhaoyao91/rate-limit-func)
+- [runs-limit-func](https://github.com/zhaoyao91/runs-limit-func)
+
 ## Introduction
 
 Say, you have an async function with only one argument: options, like [request-facebook](https://github.com/zhaoyao91/request-facebook), now
